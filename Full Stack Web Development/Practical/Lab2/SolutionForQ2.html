@@ -1,0 +1,36 @@
+<!---
+Q2. Take an image of the Indian map, and make any three states clickable using 
+image maps. Perform different functions on the click of each state.
+--->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Lab-2 | Q-2</title>
+  </head>
+  <body>
+    <img src="IndianMap.jpg" usemap="#image-map" />
+    <map name="image-map">
+      <area
+        alt="Rajasthan"
+        title="Rajasthan"
+        href="https://en.wikipedia.org/wiki/Rajasthan"
+        coords="28,158,37,141,44,148,71,132,83,116,97,124,111,138,123,147,135,158,135,170,124,186,131,193,116,204,99,203,93,221,74,205,47,198,34,176"
+        shape="poly"
+      />
+      <area
+        alt="Bihar"
+        title="Bihar"
+        href="https://en.wikipedia.org/wiki/Bihar"
+        coords="222,156,240,163,259,167,271,167,283,167,281,181,270,192,260,198,245,198,227,201,219,191,233,179,226,170"
+        shape="poly"
+      />
+      <area
+        alt="Uttarakhand"
+        title="Uttarakhand"
+        href="https://en.wikipedia.org/wiki/Uttarakhand"
+        coords="155,97,167,101,180,111,175,119,170,133,155,129,143,120,139,103,147,97"
+        shape="poly"
+      />
+    </map>
+  </body>
+</html>
