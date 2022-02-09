@@ -36,7 +36,7 @@
  
  ***
  
-- # CHALLANGES RELATED TO SOFTWARE ENGINEERING
+- # CHALLENGES RELATED TO SOFTWARE ENGINEERING
    - ## In saftey critical areas such as space,nuclear power plants the cost of S.E is massive because the lifes are at risk.
    - ## Increase market demand for fast `TURN AROUND TIME`
   > ## ⭐ This led to the development of `Azile` and `DevOps`.
