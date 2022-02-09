@@ -1,7 +1,7 @@
 > <h1 align="center"> WHAT'S INSIDE ?!🧐</h1>
 
 ***
-  - # [OVERVIEW](https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/OverView(L1-L2)/CONTENT2.md)
+  - # [OVERVIEW](https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/OverView(L1-L2)/overview.md)
 <img src="https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/images/OVR.svg" height=500px width="500px">
 
 ***
