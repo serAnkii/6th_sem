@@ -9,6 +9,3 @@ The <td> elements are the data containers of the table.They can contain all sor
 By default, the text in <th> elements are bold and centered. 
 
 By default, the text in <td> elements are regular and left-aligned.
-
-
-
