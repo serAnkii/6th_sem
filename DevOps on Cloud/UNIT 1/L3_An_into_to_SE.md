@@ -42,3 +42,31 @@
   > ## ⭐ This led to the development of `Azile` and `DevOps`.
    - ## Dealing with increased complexity of soft. that was the need for new applications. 
    - ## Diversity of software system should be communicating with each other.
+- # CHARACTERSTICS OF A GOOD SOFTWARE
+   - ## OPERATIONAL
+      - ### It lets us know how well a software works when it's in operation 
+      - ### Certain points that can be taken into consideration are:-
+         -  BUDGET :   
+         -  EFFICIENCY :
+         -  USABLITY : 
+         -  SECURITY : 
+         -  DEPENDABLITY : 
+         -  CORRECTNESS OF CAUSE : 
+         -  SAFTEY : 
+         -  FUNCTIONALITY :
+   - ## TRANSITIONAL
+      - ### How the software is moved from one platform to another platform.
+      - ### Is it dependent or independent?
+      - ### ATTRIBUTES ARE:-
+         - INTEROPERBILITY : 
+         - REUSABLITY : 
+         - PORTABLITY : 
+         - ADAPTABLITY :    
+   - ## MAINTENANCE
+      - ### This aspect talk about how well a software has capablity to adapt itself in quickly changing environment.
+      - ### GENERAL ATTRIBUTES ARE:-
+         - FLEXIBLITY : 
+         -  MAINAINABLITY : 
+         -  MODULARITY :
+         -  SCALABLITY :
+      
