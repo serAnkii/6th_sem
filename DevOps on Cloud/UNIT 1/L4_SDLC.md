@@ -1,4 +1,6 @@
-<h1 align="center"> SDLC : Software Development Life Cycle </h1>
+<h1 align="left"> SDLC : Software Development Life Cycle </h1>
+
+<img src="https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/images/SDLC.jpeg" align="right" height="200px" width="200px">
 
 *** 
 
@@ -7,6 +9,9 @@
   - QUALITY
   - CORRECTNESS
 - It has a detail plan,build and maintainence.
+
+***
+
 - ## WHY SDLC ?
   - ### It consist of different phases that go one by one and are dependent on each other in order to have an efficient and good software product at last. 
   - ### It also provides framework for standareds for each set of activities and also with different-different Delivery goals. 
