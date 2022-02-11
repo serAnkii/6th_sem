@@ -9,7 +9,7 @@
 <img src="https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/images/seng.svg" height=300px width="300px" align="right">
 
   - # [UNIT 1](https://github.com/serAnkii/6th_sem/tree/main/DevOps%20on%20Cloud/UNIT%201) 
-    - ## [An introduction to Software Engineering.](https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/UNIT%201/L3_An_into_to_SE.md) 
+    - ## [An introduction to Software Engineering.](https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/UNIT%201/L3_An_intro_to_SE.md) 
     - ## [SDLC](https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/UNIT%201/L4_SDLC.md)
     - ## [Agile Framework]()
     - ## [An introduction to DevOps,]() 
