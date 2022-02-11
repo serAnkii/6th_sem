@@ -51,8 +51,13 @@
   - ### TESTING
     - Once the software is deployed the testing team starts the functionality of entire system 
     - This is done to check that the software is working according to customer requirement or not.
-    - Each and every modules are tested by Quality analysis and testing team until there left no bugs.
+    - Each and every modules are tested by Quality analysis and testing team until the software is bug free,in stable condition and in working condition.
     -  
   - ### INSTALLATION/DEPLOYMENT
+    - Project is ready for deployment. 
   - ### MAINTEANCE
+    - 3 ACTIVITIES THAT OCCUR DURING THIS PHASE 
+      - Bug Fixing
+      - Upgradation 
+      - Enhancement:If Any  
   
