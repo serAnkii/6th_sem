@@ -1,4 +1,5 @@
-# AGILE :-
+<h1 align="center">AGILE </h1>
+
   - ### It is the continiously delivering small managable increments with the help of an iterative development and testing.
   - ### It is also known for its structured linear and sequential lifecycle
   - ### An effective & day-day management of comlex projects,enables communication and Collaboration among team members and customers.
@@ -10,7 +11,7 @@
     - SCRUM
     - KANBAN
 
-# AGILE SOFTWARE DEVELOPMENT LIFECYCLE
+- ## AGILE SOFTWARE DEVELOPMENT LIFECYCLE
   - -> each project is broken into various managabe requirements (module1,2,3...)
   - -> these tasks are organised into `sprints`
   - -> sprint takes place over two weeks during which a team works on getting a specific feature up and running.
@@ -19,5 +20,19 @@
     - testing 
     - and deploying.
     - These processes offers continious delivery of software and at the same time the customers ,project managers and stake holders follow and give feddback in order to get satisfactory result.
+ 
+- ## SCRUM PROCESS:-
+
+<img src="https://github.com/serAnkii/6th_sem/blob/main/DevOps%20on%20Cloud/images/Scrum.jpg" width = "100%" height="500px">
+
+***
+
+***
+
+<h1 align="center">DEVOPS</h1>
+
+- ###  
+
+
 
  
