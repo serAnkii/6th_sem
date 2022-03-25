@@ -16,39 +16,6 @@
 </html>
 
 ```
-# JavaScript code
 
-```js
-$('document').ready(()=>{
-  $('#child').animate({
-    right:'0'
-  })
-  $('#child').animate({
-    bottom:'0'
-  })
-  $('#child').animate({
-    left:'0'
-  })
-  $('#child').animate({
-    top:'0'
-  })
-})
-```
-# CSS 
-
-```css
-#parent {
-  width: 500px;
-  height: 500px;
-  border: 2px solid rebeccapurple;
-  position: fixed;
-}
-
-#child {
-  width: 100px;
-  height: 100px;
-  border: 2px double yellowgreen;
-  position: absolute;
-}
-
-```
+# output
+![Animation](https://user-images.githubusercontent.com/89020930/160108291-227cdfc1-0053-49ae-b023-c0bc63a2ed36.gif)
