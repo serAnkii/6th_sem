@@ -16,3 +16,6 @@ Checks weather the stream of token are syntatically correct or not
 - > in LR(0) l stands for left to right scanning and r stands for right most derivation but in reverse order coz we use bottom up approach 
 - > clr is the most powerful parser 
 - > operator precidance works on ambigous grammer and and non ambigious grammer too whereas other work only on non-ambigious grammer 
+
+# example 
+![Screenshot from 2022-03-29 16-12-59](https://user-images.githubusercontent.com/89020930/160594661-d760d475-3f81-4f38-8380-4d93f3545904.png)
