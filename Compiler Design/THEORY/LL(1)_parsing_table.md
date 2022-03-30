@@ -12,3 +12,13 @@
 
 - there is epsilon at the last so we will check the follow of the left symbol .
 - and hence it contains more than one value in one cell therefore it is not a LL(1) grammer.
+
+# Sort trick for finding that the grammer is LL(1) or not 
+
+![Capture](https://user-images.githubusercontent.com/89020930/160796102-4846bdec-e23b-4f6d-b8ed-5c775553d9f4.JPG)
+
+
+if the intersection of the first of the  productions is == Φ then it is and if not then it isn't.
+
+
+
